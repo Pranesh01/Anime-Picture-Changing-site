@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(14, 116, 116);
+    padding: 20px;
+}
+.myButton{
+    background-color: rgb(33, 207, 149);  
+    padding: 15px;
+    border-radius: 10px; 
+}
+.set {
+    background-color: rgb(35, 151, 112);
+    padding: 15px 40px 15px 40px;
+    box-shadow: none;
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    font-size: medium;
+    border: 0ch;
+    border-radius: 15px;
+}
+.set:hover{
+    background-color: rgb(28, 103, 128);
+}
+img{
+    width: auto;
+    height: 600px;
+    border-radius: 20px;
+}
+.footer{
+    font-size: medium;
+    background-color: rgb(119, 212, 215);
+    border-radius: 5px;
+    padding: 10px;
+}
+
